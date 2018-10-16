@@ -1,1 +1,3 @@
 # C-with-class
+
+## Inheritance
